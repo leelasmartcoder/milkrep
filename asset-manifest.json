@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/milkrep/static/css/main.25f700bd.chunk.css",
+    "main.js": "/milkrep/static/js/main.0e0cf87a.chunk.js",
+    "main.js.map": "/milkrep/static/js/main.0e0cf87a.chunk.js.map",
+    "runtime-main.js": "/milkrep/static/js/runtime-main.fda34269.js",
+    "runtime-main.js.map": "/milkrep/static/js/runtime-main.fda34269.js.map",
+    "static/js/2.9ec85266.chunk.js": "/milkrep/static/js/2.9ec85266.chunk.js",
+    "static/js/2.9ec85266.chunk.js.map": "/milkrep/static/js/2.9ec85266.chunk.js.map",
+    "index.html": "/milkrep/index.html",
+    "static/css/main.25f700bd.chunk.css.map": "/milkrep/static/css/main.25f700bd.chunk.css.map",
+    "static/js/2.9ec85266.chunk.js.LICENSE.txt": "/milkrep/static/js/2.9ec85266.chunk.js.LICENSE.txt",
+    "static/media/HeroSectionCss.css": "/milkrep/static/media/cowlogo-1.8a4a8b17.jpeg",
+    "static/media/App.css": "/milkrep/static/media/milkbackground-2.7dd7d3c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fda34269.js",
+    "static/js/2.9ec85266.chunk.js",
+    "static/css/main.25f700bd.chunk.css",
+    "static/js/main.0e0cf87a.chunk.js"
+  ]
+}
